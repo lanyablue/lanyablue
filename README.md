@@ -24,4 +24,4 @@ Olá! Eu sou a lanyablue!
   </div>
   
   
- ![Snake animation](https://raw.githubusercontent.com/lanyablue/lanyablue/blob/output/nome arquivo.svg)
+![Snake animation](https://github.com/lanyablue/lanyablue/blob/output/github-contribution-grid-snake.svg)
