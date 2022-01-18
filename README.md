@@ -24,5 +24,5 @@ Olá! Eu sou a lanyablue!
   
   
   
-![Snake animation](https://github.com/lanyablue/lanyablue/blob/output/github-contribution-grid-snake.svg) [isso foi uma tentativa de cobrinha mas não consegui :(( ]
+![Snake animation](https://raw.githubusercontent.com/lanyablue/lanyablue/main/.github/workflows/cobrinhaa) [isso foi uma tentativa de cobrinha mas não consegui :(( ]
  </div>
